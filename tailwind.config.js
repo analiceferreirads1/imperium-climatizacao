@@ -1,0 +1,1 @@
+export default {content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"], theme: {extend: {colors: { "imperium-blue": "#1e40af", "imperium-orange": "#f97316" }}}, plugins: []}

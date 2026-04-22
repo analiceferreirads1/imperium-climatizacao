@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-imperium-blue: #1e40af;
+  --color-imperium-orange: #f97316;
+}
+html {
+  scroll-behavior: smooth;
+}
